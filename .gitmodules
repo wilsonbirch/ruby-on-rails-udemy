@@ -1,0 +1,3 @@
+[submodule "ruby_test_app"]
+	path = ruby_test_app
+	url = https://github.com/wilsonbirch/ruby_test_app.git
