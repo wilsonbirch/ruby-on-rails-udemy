@@ -141,10 +141,15 @@
 # #returns {:d=>"s"}
 
 myHash = {
-    a:1,
-    b:2,
-    c:3,
-    d:"s"
+  a:1,
+  b:2,
+  c:3,
+  d:"s"
 }
 p myHash.each { |k,v| myHash.delete(k) if v.is_a?(String)}
 #returns {:a=>1, :b=>2, :c=>3}
+
+this_is_snake_case
+  
+def my
+    
