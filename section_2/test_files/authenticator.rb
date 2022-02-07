@@ -4,11 +4,11 @@ users = [
         password: "password"
     },
     {
-        username: "wilsonbirch1",
+        username: "meaghangorham",
         password: "password1"
     },
     {
-        username: "wilsonbirch2",
+        username: "pattymcconks",
         password: "password2"
     },
 ];
